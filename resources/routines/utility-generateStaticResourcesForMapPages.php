@@ -1,33 +1,30 @@
 <?php
 print '<pre>';
 
-$pw = 'dbpassword';
-$u = 'dbuser';
-
     $staticResourcePath = BASE_PATH.'resources'.DIRECTORY_SEPARATOR.'html'.DIRECTORY_SEPARATOR.$subject.DIRECTORY_SEPARATOR;
     $result = 'undefined error';
     switch ($subject) {
         case 'statePreview':
             $states = \GRSelect\DataFactory::database(
                 'localhost',
-                $u,
-                $pw,
+                MYSQL_DB_USER,
+                MYSQL_DB_PASS,
                 'grs_data',
                 'states',
                 'State'
             );
             $candidates = \GRSelect\DataFactory::database(
                 'localhost',
-                $u,
-                $pw,
+                MYSQL_DB_USER,
+                MYSQL_DB_PASS,
                 'grs_data',
                 'candidates',
                 'Candidate'
             );
             $votingDates = \GRSelect\DataFactory::database(
                 'localhost',
-                $u,
-                $pw,
+                MYSQL_DB_USER,
+                MYSQL_DB_PASS,
                 'grs_data',
                 'votingDates',
                 'VotingDate'

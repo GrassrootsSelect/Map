@@ -1,6 +1,4 @@
 .idea
 vendor
 composer.lock
-bfg-1.12.12.jar
-pw.txt
-.gitignore
+env.local.php

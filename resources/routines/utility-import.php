@@ -1,9 +1,5 @@
 <?php
-
     // imports states and districts from json data used to generate the maps
-$pw = 'dbpassword';
-$u = 'dbuser';
-
     $stateData = file_get_contents(BASE_PATH.'public'.DIRECTORY_SEPARATOR.'js'.DIRECTORY_SEPARATOR.'us-states-extended.json');
     $stateData = json_decode($stateData, true);
     $stateData = array_pop($stateData);
@@ -12,8 +8,8 @@ print '<pre>';
 
     $states = \GRSelect\DataFactory::database(
         'localhost',
-        $u,
-        $pw,
+        MYSQL_DB_USER,
+        MYSQL_DB_PASS,
         'grs_data',
         'states',
         'State'
@@ -39,8 +35,8 @@ print '<pre>';
 
     $districts = \GRSelect\DataFactory::database(
         'localhost',
-        $u,
-        $pw,
+        MYSQL_DB_USER,
+        MYSQL_DB_PASS,
         'grs_data',
         'districts',
         'District'
