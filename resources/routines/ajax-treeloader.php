@@ -1,6 +1,9 @@
 <?php
 header('Content-Type: application/json');
 
+$pw = 'dbpassword';
+$u = 'dbuser';
+
 if ( $_GET["id"] === "#" ) {
     $data = array(
         array( "id" => "Candidate", "parent" => "#", "text" => "Candidate" , "children" => true ),
@@ -17,8 +20,8 @@ if ( $_GET["id"] === "#" ) {
         case 'Candidate':
             $table= \GRSelect\DataFactory::database(
                 'localhost',
-                'root',
-                '***REMOVED***',
+                $u,
+                $pw,
                 'grs_data',
                 'candidates',
                 'Candidate'
@@ -28,16 +31,16 @@ if ( $_GET["id"] === "#" ) {
         case 'District':
             $table= \GRSelect\DataFactory::database(
                 'localhost',
-                'root',
-                '***REMOVED***',
+                $u,
+                $pw,
                 'grs_data',
                 'districts',
                 'District'
             );
             $states= \GRSelect\DataFactory::database(
                 'localhost',
-                'root',
-                '***REMOVED***',
+                $u,
+                $pw,
                 'grs_data',
                 'states',
                 'State'
@@ -57,8 +60,8 @@ if ( $_GET["id"] === "#" ) {
         case 'Issue':
             $table= \GRSelect\DataFactory::database(
                 'localhost',
-                'root',
-                '***REMOVED***',
+                $u,
+                $pw,
                 'grs_data',
                 'issues',
                 'Issue'
@@ -68,8 +71,8 @@ if ( $_GET["id"] === "#" ) {
         case 'Resource':
             $table= \GRSelect\DataFactory::database(
                 'localhost',
-                'root',
-                '***REMOVED***',
+                $u,
+                $pw,
                 'grs_data',
                 'resources',
                 'Resource'
@@ -79,8 +82,8 @@ if ( $_GET["id"] === "#" ) {
         case 'State':
             $table = \GRSelect\DataFactory::database(
                 'localhost',
-                'root',
-                '***REMOVED***',
+                $u,
+                $pw,
                 'grs_data',
                 'states',
                 'State'
@@ -90,8 +93,8 @@ if ( $_GET["id"] === "#" ) {
         case 'VotingDate':
             $table= \GRSelect\DataFactory::database(
                 'localhost',
-                'root',
-                '***REMOVED***',
+                $u,
+                $pw,
                 'grs_data',
                 'votingDates',
                 'VotingDate'
