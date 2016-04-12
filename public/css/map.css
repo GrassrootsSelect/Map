@@ -1,0 +1,162 @@
+path {
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    fill: #bbb;
+}
+
+.district-boundaries {
+    pointer-events: none;
+    fill: none;
+    stroke: #fff;
+    stroke-width: .5px;
+}
+
+#states {
+    fill: #aaa;
+}
+
+#states *:hover {
+    fill: orange;
+    cursor: pointer;
+}
+
+
+#states .active {
+    fill: #d5d5d5;
+    pointer-events: none;
+}
+
+
+.districts :hover {
+    fill: green;
+}
+
+
+.statesOverlay {
+    stroke: #fff;
+    stroke-width: 1.5px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+}
+
+.static-body {
+    min-height: 700px;
+    padding: 0;
+}
+
+.lookup-box-wrapper span {
+    display: block;
+    font-size: 0.7rem;
+}
+.lookup-box-wrapper button {
+    padding: 6px;
+}
+.lookup-box-wrapper {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    display:none;
+}
+.lookup-box-wrapper input {
+    width: 75%;
+}
+
+.map-help-wrapper {
+    position: absolute;
+    top: 80px;
+    left: 50px;
+    width: 150px;
+    height: 152px;
+    background-color: #373737;
+    border-radius: 2px;
+    padding: 15px;
+    opacity: 0.8;
+    color: white;
+}
+.help-wrapper.arrow-right:after {
+    content: " ";
+    position: absolute;
+    top: 94px;
+    right: -22px;
+    background-image: url(/images/arrowRight.png?s);
+    width: 26px;
+    height: 40px;
+}
+#info-box {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 500px;
+    background-color: #efefef;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.4);
+    padding-bottom: 75px;
+}
+.state-name-wrapper {
+    display: block;
+    background-color: #222;
+    color: white;
+    font-size: 1.6rem;
+    padding: 4px 8px;
+}
+.info-content{
+    padding: 4px 8px;
+}
+#info-box button {
+    padding: 10px;
+    margin-left: 4px;
+}
+#info-box .loading-message {
+    text-align: center;
+    margin-top: 20px;
+    opacity: 0.5;
+    line-height: 100px;
+}
+.right-inner-col {
+    width: 40%;
+    float: right;
+}
+.left-inner-col {
+    width: 56%;
+    float: left;
+}
+.right-inner-col strong {
+    display: block;
+}
+#info-box .button-wrapper {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: right;
+    padding: 4px 8px;
+    background-color: #E2E2E2;
+}
+#info-box h3 {
+    padding: 0;
+    margin: 0;
+}
+#info-box p {
+    margin: 0;
+}
+
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+    #info-box {
+        width:100%;
+        left: 0px;
+        right:0px;
+        top:0px;
+        bottom:0px;
+    }
+    .map-help-wrapper {
+        display:none;
+    }
+    .statesOverlay {
+        pointer-events: none;
+    }
+    .lookup-box-wrapper {
+        display: block;
+    }
+}

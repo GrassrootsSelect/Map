@@ -1,0 +1,6 @@
+.static-body {
+    background-image: url('images/usadistricts.png?b');
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height:500px;
+}

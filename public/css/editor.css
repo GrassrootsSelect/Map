@@ -1,0 +1,29 @@
+.left-inner-col {
+    width: 30%;
+    float: left;
+}
+.right-inner-col {
+    width: 66%;
+    float: right;
+    padding-left:20px;
+    border-left: 1px solid #222;
+    min-height: 600px;
+    padding-bottom: 20px;
+}
+
+label,input, select {
+    display: block;
+    width: 40%;
+}
+label {
+    margin-top: 10px;
+}
+
+.radios label,
+.radios input {
+    display: inline-block;
+    width: auto;
+}
+.static-body {
+    min-height: 600px;
+}

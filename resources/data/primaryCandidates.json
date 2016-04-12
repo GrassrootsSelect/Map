@@ -1,0 +1,416 @@
+{
+    "TX.03.H1": {
+        "id": "TX.03.H1",
+        "name": "Adam Bell",
+        "image": "Bell_TX3.jpeg",
+        "state": "TX",
+        "district": "03",
+        "seat": "H",
+        "points": [
+            {
+                "point": "A self-described moderate interested in working across the aisle to get things done.",
+                "citation": "http:\/\/www.voteadambell.com\/what-i-believe.html"
+            },
+            {
+                "point": "Supports the Trans-Pacific Partnership trade agreement (TPP)",
+                "citation": "http:\/\/www.voteadambell.com\/what-i-believe.html"
+            },
+            {
+                "point": "\"I'm not interestested in...embracing the so-called left-wing agenda.\"",
+                "citation": "http:\/\/www.voteadambell.com\/what-i-believe.html"
+            }
+        ],
+        "issues": []
+    },
+    "TX.03.H2": {
+        "id": "TX.03.H2",
+        "name": "Michael Filak",
+        "image": "Filiak_TX3.png",
+        "state": "TX",
+        "district": "03",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Supports Bernie Sanders' vision for America.",
+                "citation": "http:\/\/www.michaelfilak.com\/"
+            },
+            {
+                "point": "Opposes the Trans-Pacific Partnership trade agreement (TPP).",
+                "citation": "http:\/\/www.michaelfilak.com\/uncategorized\/thoughts-on-trans-pacific-partnership-tpp\/"
+            },
+            {
+                "point": "Has released a comprehensive platform for economic reform, including tying CEO salaries to worker wages.",
+                "citation": "http:\/\/www.michaelfilak.com\/economic-disparity\/"
+            }
+        ],
+        "issues": []
+    },
+    "TX.10.H3": {
+        "id": "TX.10.H3",
+        "name": "Tawana Cadien",
+        "image": "Cadien_TX10.jpg",
+        "state": "TX",
+        "district": "10",
+        "seat": "H",
+        "points": [
+            {
+                "point": "A registered Nurse, she believes all Americans should have readily accessible healthcare.",
+                "citation": "http:\/\/www.tawanacadienforcongress.com\/#!healthcare\/sj8ds"
+            },
+            {
+                "point": "\"I will champion any and all bills designated to enhancing the lives of our veterans.\"",
+                "citation": "http:\/\/www.tawanacadienforcongress.com\/#!our-veterans\/vew48"
+            },
+            {
+                "point": "\"Our investment in education must never be second guessed.\"",
+                "citation": "http:\/\/www.tawanacadienforcongress.com\/#!education"
+            }
+        ],
+        "issues": []
+    },
+    "TX.10.H4": {
+        "id": "TX.10.H4",
+        "name": "Scott Gallaher",
+        "image": "Gallaher_TX10.jpg",
+        "state": "TX",
+        "district": "10",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Endorsed by Austin American-Statesman, Stonewall Democrats of Austin, NxNW, and others.",
+                "citation": "http:\/\/www.scotgallaher.com\/"
+            },
+            {
+                "point": "International experience as a strategy consultant with the UN, World Bank, the government of Jordan and the Prime Minister of Kuwait.",
+                "citation": "http:\/\/www.scotgallaher.com\/about\/"
+            },
+            {
+                "point": "Wants to have a leadership role on issues of economic prosperity and international affairs.",
+                "citation": "http:\/\/www.scotgallaher.com\/about\/"
+            }
+        ],
+        "issues": []
+    },
+    "TX.06.H5": {
+        "id": "TX.06.H5",
+        "name": "Don Jaquess",
+        "image": "Jaquess_TX6.jpg",
+        "state": "TX",
+        "district": "06",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Quality, affordable health care should be a right of all Americans.",
+                "citation": "http:\/\/www.donjaquess.com\/Congress-Members.html"
+            },
+            {
+                "point": "Proposes a large-scale project to bring water to Texas, as well as improve Texas' infrastructure and currently dormant manufacturing resources.",
+                "citation": "http:\/\/www.donjaquess.com\/Congress-Members.html"
+            },
+            {
+                "point": "Wants to reform the education system to give teachers and other educators the tools they need to teach well.",
+                "citation": "http:\/\/www.donjaquess.com\/Congress-Members.html"
+            }
+        ],
+        "issues": []
+    },
+    "TX.06.H6": {
+        "id": "TX.06.H6",
+        "name": "Jeffrey Roseman",
+        "image": "Roseman_TX6.jpg",
+        "state": "TX",
+        "district": "06",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Truck driver with a degree in Engineering.",
+                "citation": "http://bit.ly/1oGDRqS"
+            },
+            {
+                "point": "\"OK\" with same-sex marriage, but doesn't \"think marrying animals is such a good idea\".",
+                "citation": "http://bit.ly/1oGDRqS"
+            },
+            {
+                "point": "Supports the sale of nuclear weapons to Iran as a way of discouraging them from developing their own.",
+                "citation": "http://bit.ly/1oGDRqS"
+            }
+        ],
+        "issues": []
+    },
+    "TX.21.H7": {
+        "id": "TX.21.H7",
+        "name": "Thomas Wakely",
+        "image": "Wakely_TX21.jpg",
+        "state": "TX",
+        "district": "21",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Has endorsed Bernie Sanders.",
+                "citation": "https:\/\/www.reddit.com\/r\/SandersForPresident\/comments\/425vw2\/hi_reddit_i_am_tom_wakely_a_progressive_texan_and\/"
+            },
+            {
+                "point": "Strongly opposes the Trans-Pacific Partnership trade agreement.",
+                "citation": "http:\/\/www.wakely2016.com\/trans_pacific_partnership"
+            },
+            {
+                "point": "Supports a political revolution to combat climate change, putting people before polluters' profits.",
+                "citation": "http:\/\/www.wakely2016.com\/climate_change"
+            }
+        ],
+        "issues": []
+    },
+    "TX.21.H8": {
+        "id": "TX.21.H8",
+        "name": "Tejas Vakil",
+        "image": "Vakil_TX21.png",
+        "state": "TX",
+        "district": "21",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Proposes lowering the corporate tax rate and eliminating loopholes to spur economic development.",
+                "citation": "http:\/\/www.tejasforcongress.com\/economic_policy"
+            },
+            {
+                "point": "Believes non-partisan solutions to protecting social security need to be sensibly debated.",
+                "citation": "http:\/\/www.tejasforcongress.com\/senior_citizens"
+            },
+            {
+                "point": "Supports free college in exchange for 2-3 years of service to a government or community agency.",
+                "citation": "http:\/\/www.tejasforcongress.com\/education"
+            }
+        ],
+        "issues": []
+    },
+    "TX.23.H9": {
+        "id": "TX.23.H9",
+        "name": "Pete Gallego",
+        "image": "Gallego_TX23.jpg",
+        "state": "TX",
+        "district": "23",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Has endorsed Hillary Clinton, identifies as a moderate.",
+                "citation": "https:\/\/en.wikipedia.org\/wiki\/List_of_Hillary_Clinton_presidential_campaign_endorsements,_2016"
+            },
+            {
+                "point": "Wants to expand Medicaid in Texas. Opposes cuts to Medicare.",
+                "citation": "http:\/\/petegallego.com\/priorities\/medicare-and-medicaid"
+            },
+            {
+                "point": "Supports making the most of domestic fossil fuel resources while developing green energy.",
+                "citation": "http:\/\/petegallego.com\/priorities\/energy"
+            }
+        ],
+        "issues": []
+    },
+    "TX.23.H10": {
+        "id": "TX.23.H10",
+        "name": "Lee Keenen",
+        "image": "Keenen_TX23.jpg",
+        "state": "TX",
+        "district": "23",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Believes in campaign finance reform and wants to limit campaign contributions to individuals donating just $100 per person per election.",
+                "citation": "http:\/\/www.keenenforcongress.com\/the-issues-campaign-finance.html"
+            },
+            {
+                "point": "Supports the Keystone Pipeline. Supports regulating fracking and supports funding for the development of renewable energy.",
+                "citation": "http:\/\/www.keenenforcongress.com\/the-issues-energy.html"
+            },
+            {
+                "point": "Wants to repeal the Affordable Care Act, believing that only insurance companies benefited from this legislation.",
+                "citation": "http:\/\/www.keenenforcongress.com\/the-issues-healthcare.html"
+            }
+        ],
+        "issues": []
+    },
+    "TX.28.H11": {
+        "id": "TX.28.H11",
+        "name": "Henry Cuellar",
+        "image": "Cuellar_TX28.jpg",
+        "state": "TX",
+        "district": "28",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Voted to make the PATRIOT Act permanent in 2005.",
+                "citation": "http:\/\/www.ontheissues.org\/TX\/Henry_Cuellar.htm"
+            },
+            {
+                "point": "Has voted to restrict women's reproductive rights. 80% rating from National Right to Life Committee.",
+                "citation": "http:\/\/www.ontheissues.org\/TX\/Henry_Cuellar.htm"
+            },
+            {
+                "point": "Has voted for expanding health insurance coverage and against cuts to Medicare.",
+                "citation": "http:\/\/www.ontheissues.org\/TX\/Henry_Cuellar_Health_Care.htm"
+            }
+        ],
+        "issues": []
+    },
+    "TX.28.H12": {
+        "id": "TX.28.H12",
+        "name": "William Hayward",
+        "image": "Hayward_TX28.jpg",
+        "state": "TX",
+        "district": "28",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Advocates for a flat tax rate and elimination of the estate tax.",
+                "citation": "http:\/\/haywardforcongress.com\/issues\/"
+            },
+            {
+                "point": "Is pro-life \/ anti-choice.",
+                "citation": "http:\/\/haywardforcongress.com\/issues\/"
+            },
+            {
+                "point": "Supports the right of same sex couples to marry as long as they do not publicly display their affection.",
+                "citation": "http:\/\/haywardforcongress.com\/issues\/"
+            }
+        ],
+        "issues": []
+    },
+    "TX.29.H13": {
+        "id": "TX.29.H13",
+        "name": "Gene Green",
+        "image": "Green_TX29.jpg",
+        "state": "TX",
+        "district": "29",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Voted to make federal death penalty appeals harder.",
+                "citation": "http:\/\/www.ontheissues.org\/TX\/Gene_Green.htm"
+            },
+            {
+                "point": "Pro-choice. 100% rating from NARAL Pro-Choice America.",
+                "citation": "http:\/\/www.ontheissues.org\/TX\/Gene_Green.htm"
+            },
+            {
+                "point": "Voted to raise the minimum wage and to restrict employer intervention in union organizing.",
+                "citation": "https:\/\/green.house.gov\/issues\/jobsworkforce"
+            }
+        ],
+        "issues": []
+    },
+    "TX.29.H14": {
+        "id": "TX.29.H14",
+        "name": "Dominique Garcia",
+        "image": "GarciaDominique_TX29.jpg",
+        "state": "TX",
+        "district": "29",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Supports income tax increase on the top 1% and reduced defense spending.",
+                "citation": "http:\/\/votesmart.org\/candidate\/political-courage-test\/166493\/dominique-garcia\/#.VtG7G5wrKhc"
+            },
+            {
+                "point": "Supports capital punishment, but does not support mandatory minimum sentences for non-violent drug offenders.",
+                "citation": "http:\/\/votesmart.org\/candidate\/political-courage-test\/166493\/dominique-garcia\/#.VtG7G5wrKhc"
+            },
+            {
+                "point": "Opposes Keystone XL pipeline and supports funding for the development of renewable energy. Believes that human activity contributes to climate change.",
+                "citation": "http:\/\/votesmart.org\/candidate\/political-courage-test\/166493\/dominique-garcia\/#.VtG7G5wrKhc"
+            }
+        ],
+        "issues": []
+    },
+    "TX.29.H15": {
+        "id": "TX.29.H15",
+        "name": "Adrian Garcia",
+        "image": "GarciaAdrian_TX29.jpg",
+        "state": "TX",
+        "district": "29",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Supports investment in early childhood education programs, after school programs, and new job training programs.",
+                "citation": "http:\/\/www.adriangarcia.com\/issue\/growing-our-economy\/"
+            },
+            {
+                "point": "Supports common sense approaches to address gun safety, including background checks and smart gun technology.",
+                "citation": "http:\/\/www.adriangarcia.com\/issues\/it-is-time-to-protect-our-children-from-nonsense-gun-violence\/"
+            },
+            {
+                "point": "Supports funding an integrated, multimodal transportation system that allows Houstonians to move around by bus, bike, train and by foot.",
+                "citation": "http:\/\/www.adriangarcia.com\/issue\/infrastructure\/"
+            }
+        ],
+        "issues": []
+    },
+    "TX.15.H16": {
+        "id": "TX.15.H16",
+        "name": "Vincente Gonzalez",
+        "image": "Gonzalez_TX15.png",
+        "state": "TX",
+        "district": "15",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Supports expanding Social Security and strengthening Medicare.",
+                "citation": "http:\/\/www.vicentegonzalez.com\/"
+            },
+            {
+                "point": "Supports strengthening the Affordable Care Act and expanding Medicaid.",
+                "citation": "http:\/\/www.vicentegonzalez.com\/"
+            },
+            {
+                "point": "Supports deferred action and a path to permanent residency for undocumented immigrants.",
+                "citation": "http:\/\/www.vicentegonzalez.com\/"
+            }
+        ],
+        "issues": []
+    },
+    "TX.15.H17": {
+        "id": "TX.15.H17",
+        "name": "Dolly Elizondo",
+        "image": "Elizondo_TX15.jpg",
+        "state": "TX",
+        "district": "15",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Supports investment in infrastructure to spur economic development and create immediate jobs.",
+                "citation": "http:\/\/www.dollyforcongress.com\/issues-2\/"
+            },
+            {
+                "point": "Supports the Affordable Care Act and wants to expand it.",
+                "citation": "http:\/\/www.dollyforcongress.com\/issues-2\/"
+            },
+            {
+                "point": "Will work to increase investment in early childhood education programs and community schools. Supports expanding federal grants for higher education and vocational school, and lowering college loan interest rates.",
+                "citation": "http:\/\/www.dollyforcongress.com\/issues-2\/"
+            }
+        ],
+        "issues": []
+    },
+    "TX.15.H18": {
+        "id": "TX.15.H18",
+        "name": "Juan Palacios Jr.",
+        "image": "Palacio_TX15.jpg",
+        "state": "TX",
+        "district": "15",
+        "seat": "H",
+        "points": [
+            {
+                "point": "Supports a federal living wage.",
+                "citation": "http:\/\/www.sonnyforcongress.com\/#!platform\/cee5"
+            },
+            {
+                "point": "Believes small businesses are the backbone to our communities, and supports public\/private partnerships to create jobs.",
+                "citation": "http:\/\/www.sonnyforcongress.com\/#!platform\/cee5"
+            },
+            {
+                "point": "Supports deferred action and a path to permanent residency for undocumented immigrants.",
+                "citation": "http:\/\/www.sonnyforcongress.com\/#!platform\/cee5"
+            }
+        ],
+        "issues": []
+    }
+}
