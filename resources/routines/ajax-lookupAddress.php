@@ -6,9 +6,6 @@ $geodata = @json_decode(
 );
 
 if (is_array($geodata) === false || $geodata['status'] != 'OK') {
-    //var_dump($data);
-    //var_dump($geodata);
-    //die('https://maps.googleapis.com/maps/api/geocode/json?address='.urlencode($address).'&key='.GOOGLE_MAPS_API_KEY);
     die(json_encode(array(
         'status'=>'ERROR',
         'message'=>'There was a problem looking up that address. There might be a problem with one of our lookup services, but make sure it is entered correctly. (e01)'
@@ -17,7 +14,6 @@ if (is_array($geodata) === false || $geodata['status'] != 'OK') {
 
 $firstLocationResult = array_shift($geodata['results']);
 $hasStreetNumber = false;
-//print '<pre>';
 foreach ($firstLocationResult['address_components'] as $addressResults) {
     foreach ($addressResults['types'] as $resultType) {
         if ($resultType == 'street_number') {
@@ -33,8 +29,6 @@ if ($hasStreetNumber !== true) {
         'message'=>'Sorry, the address you entered could not be precisely located. Check the spelling, and ensure it is your complete address.'
     )));
 }
-//var_dump($firstLocationResult);
-//die();
 
 $location = $firstLocationResult['geometry']['location'];
 

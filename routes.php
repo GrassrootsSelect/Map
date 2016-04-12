@@ -9,9 +9,9 @@
             null,
             true
         ),
-        'candidates'=>GRSelect\DataFactory::json(DATA_PATH.'primaryCandidates.json', '\GRSelect\Candidate'),
-        'states'=>GRSelect\DataFactory::json(DATA_PATH.'states.json', '\GRSelect\State'),
-        'districts'=>GRSelect\DataFactory::json(DATA_PATH.'districts.json', '\GRSelect\District'),
+        'candidates'=>GRSelect\DataFactory::json(DATA_PATH.'primaryCandidates.json', '\GRSelect\ValueObjects\Candidate'),
+        'states'=>GRSelect\DataFactory::json(DATA_PATH.'states.json', '\GRSelect\ValueObjects\State'),
+        'districts'=>GRSelect\DataFactory::json(DATA_PATH.'districts.json', '\GRSelect\ValueObjects\District'),
         'staticHtml'=>new \GRSelect\StaticHtml(BASE_PATH.'resources'.DIRECTORY_SEPARATOR.'html'.DIRECTORY_SEPARATOR)
     ));
 
